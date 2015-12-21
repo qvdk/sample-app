@@ -1,0 +1,7 @@
+{
+  "name": "Sample app",
+  "description": "Sample app to illustrate Heroku deployment",
+  "repository": "https://github.com/qvdk/sample-app",
+  "image": "heroku/java",
+  "addons": [ ]
+}
