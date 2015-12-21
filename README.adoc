@@ -1,0 +1,3 @@
+= Sample application image:https://travis-ci.org/qvdk/sample-app.svg?branch=master["Build Status", link="https://travis-ci.org/qvdk/sample-app"]
+
+Sample application to illustrate continus integration with only SaaS solutions.
